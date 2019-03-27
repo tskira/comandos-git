@@ -115,10 +115,10 @@ git checkout dev
 ```
 git branch
 ```
-
 ### Remover: 
 ```
 git branch -d <nome_branch>
+git push origin --delete <nome_branch>
 ```
 
 Exemplo:
